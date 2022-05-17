@@ -1,10 +1,14 @@
 # AIot0517
-AIot Lecture 14 Practice(0517): /
-We are going to develop an AIot web using Flask./
+AIot Lecture 14 Practice(0517): 
+
+We are going to develop an AIot web using Flask.
+
 This course require student to use the vs code to develop our project and push their codes on the github.
 
 1.Register a github account (done)
+
 2.New a repository on the github
+
 3.Open VS code then git clone this repository.
 
 
